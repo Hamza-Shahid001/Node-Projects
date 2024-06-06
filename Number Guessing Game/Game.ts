@@ -1,8 +1,8 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 
 import inquirer from "inquirer"
 
-console.log("Welcome to Number Guessing Game made by Hamza")
+console.log("\t\"Welcome to Number Guessing Game made by Hamza\"")
 
 const randomNumber = Math.floor(Math.random() * 5 + 1)
 

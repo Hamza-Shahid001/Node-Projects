@@ -1,8 +1,9 @@
 {
   "name": "number-guessing-game_made_by_hamza",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "type": "module",
+  "bin": "Game.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
